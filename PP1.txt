@@ -3,4 +3,4 @@ To je verzija 1
 
 Что-то новое
 njsdfs
-нечто рискованое c mastera
+нечто рискованое
