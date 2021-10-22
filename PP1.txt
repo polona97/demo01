@@ -5,3 +5,4 @@ To je verzija 1
 njsdfs
 нечто рискованое s riskovannoe
 Новый член команды подключился
+He adds something new
